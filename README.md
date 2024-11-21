@@ -22,5 +22,3 @@
 ### GET /receipts/:id/points
 - Returns the points awarded for a receipt.
 
-## Example Requests
-See the problem statement for example payloads and expected responses.
